@@ -1,4 +1,1 @@
-var x = 10;
-var y = 20;
-
-document.write(x + y);
+console.log("Hello, World!")
